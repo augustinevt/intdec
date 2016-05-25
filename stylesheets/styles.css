@@ -1,0 +1,23 @@
+
+.container {
+  margin: auto;
+  text-align:center;
+}
+
+.column {
+  width: 20vw;
+  display: inline-block;
+}
+
+img {
+  width: 20vw;
+  height: 20vw;
+}
+
+body {
+  background-color: orange;
+}
+
+h1, h2{
+  text-align: center;
+}
