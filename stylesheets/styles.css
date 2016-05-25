@@ -7,11 +7,19 @@
 .column {
   width: 20vw;
   display: inline-block;
+  background-color: red;
 }
+
+.column:nth-last-of-type(2) {
+  background-color: green;
+
+}
+
 
 img {
   width: 20vw;
   height: 20vw;
+  float: left;
 }
 
 body {
